@@ -1,0 +1,12 @@
+{
+  "name": "goodbye-senator",
+  "version": "1.0.0",
+  "description": "Goodbye, I am reminded of the honor it has been to serve. I leave with a sense of fulfillment and a heart full of gratitude. I look forward to the future, eager to see what new challenges and opportunities await.",
+  "main": "index.cjs",
+  "scripts": {
+    "start": "node index.cjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "WTFPL"
+}
