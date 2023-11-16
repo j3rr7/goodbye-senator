@@ -16,3 +16,11 @@ The "goodbye-senator" library was a testament to their commitment to improving t
 easier for other developers to navigate the challenges of dealing with difficult clients. By creating this library, we
 hoped to alleviate some of the stress and frustration associated with these situations, and perhaps inspire other
 developers to do the same.
+
+# License
+```
+Copyright © 2023 Jeremy <jeremy@jerem.my.id>
+This work is free. You can redistribute it and/or modify it under the
+terms of the Do What The Fuck You Want To Public License, Version 2,
+as published by Sam Hocevar. See http://www.wtfpl.net/ for more details.
+```
